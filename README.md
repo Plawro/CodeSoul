@@ -16,4 +16,4 @@ Aplikace **CodeSoul** je aplikace, která vám ukáže, jak kódovat, s vysvětl
 ```
 
 # Dostupnost
->Aplikace bude dostupná pro veřejnost ke stažení, až **bude projekt hotov**
+>Aplikace bude dostupná pro veřejnost ke stažení, **až bude projekt hotov**
