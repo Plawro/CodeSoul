@@ -12,7 +12,7 @@ Aplikace **CodeSoul** je aplikace, která vám ukáže, jak kódovat, s vysvětl
 
 - 4.4.2023 » Stylizace, oprava chyb
 
-- 5.4.2023 » Přidán editor, pro editaci dat (jen verze master)
+- 5.4.2023 » Přidán editor pro editaci dat (jen verze master)
 ```
 
 # Dostupnost
