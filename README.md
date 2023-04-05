@@ -1,5 +1,5 @@
 # CodeSoul
-Aplikace CodeSoul je aplikace, která vám ukáže, jak kódovat, s vysvětlivkami. V češtině.
+Aplikace **CodeSoul** je aplikace, která vám ukáže, jak kódovat, s vysvětlivkami. V češtině.
 
 
 # Postup
@@ -16,4 +16,4 @@ Aplikace CodeSoul je aplikace, která vám ukáže, jak kódovat, s vysvětlivka
 ```
 
 # Dostupnost
->Aplikace bude dostupná pro veřejnost ke stažení až při vyhotovení projektu
+>Aplikace bude dostupná pro veřejnost ke stažení, až **bude projekt hotov**
