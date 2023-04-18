@@ -4,12 +4,12 @@ Program **CodeSoul** je aplikace, která vám ukáže jak kódovat v programovac
 
 
 # Postup
-```
-- 31.3.2023 » Nápad na projekt, vytvoření projektu
 
-- 2.4.2023 » Pozměnění nápadu, základní kód
+> 31.3.2023 » Nápad na projekt, vytvoření projektu
 
-- 3.4.2023 » První data, testování systému
+> 2.4.2023 » Pozměnění nápadu, základní kód
+
+> 3.4.2023 » První data, testování systému
 
 - 4.4.2023 » Stylizace, oprava chyb
 
@@ -20,7 +20,7 @@ Program **CodeSoul** je aplikace, která vám ukáže jak kódovat v programovac
 - 16.4.2023 » Přidány další lekce, optimalizace textu
 
 - 17.4.2023 » Přidány další lekce (8/13), upraven README na Github repozitáři
-```
+
 <br><br>
 # Dostupnost
 >Aplikace bude dostupná pro veřejnost ke stažení, **až bude projekt hotov**
