@@ -1,7 +1,7 @@
 # CodeSoul
 Program **CodeSoul** je aplikace, která vám ukáže jak kódovat v programovacím jazyce Java. S vysvětlivkami. V češtině.
 
-
+<br>
 # Postup
 ```
 - 31.3.2023 » Nápad na projekt, vytvoření projektu
