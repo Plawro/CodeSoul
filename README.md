@@ -14,7 +14,7 @@ Program **CodeSoul** je aplikace, která vám ukáže, jak kódovat, s vysvětli
 
 - 5.4.2023 » Přidán editor pro editaci dat (jen verze master)
 
-- 14.4.2023 » Přidán odkaz na Github, Změna velikosti okna a opraveny některé grafické chyby
+- 14.4.2023 » Přidán odkaz na Github, změna velikosti okna a opraveny některé grafické chyby
 
 - 16.4.2023 » Přidány další lekce, optimalizace textu
 ```
