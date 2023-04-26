@@ -25,7 +25,7 @@ Program **CodeSoul** je aplikace, která vám ukáže jak kódovat v programovac
 
 - 25.4.2023 » Přidány další lekce (12/17)
 
-- 26.4.2023 » Přidány další lekce (14/16)
+- 26.4.2023 » Přidány další lekce (14/17)
 ```
 
 <br><br>
