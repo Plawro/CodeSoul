@@ -34,6 +34,6 @@ PROJEKT HOTOV - P1V6 (Prerelease - dooprava chyb)
 
 <br><br>
 # Dostupnost
-
-> Aplikace bude dostupná pro veřejnost ke stažení, **až bude projekt hotov**
+> Co potřebuji ke spuštění programu? JDK Development Kit (https://www.oracle.com/cz/java/technologies/downloads/)
+> Aplikace bude dostupná pro veřejnost ke stažení, **až po prezentaci programu v hodině programování**
 
