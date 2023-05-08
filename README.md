@@ -41,5 +41,6 @@ R1V2-Student (Release, verze student)
 > Aplikace je dostupná pro veřejnost ke stažení **od 8.5.2023**<br>
 # Instalace
 > Co potřebuji ke spuštění programu? JDK Development Kit (https://www.oracle.com/cz/java/technologies/downloads/)<br>
-> Kde program CodeSoul stáhnu? Zde: [Latest release](https://github.com/Plawro/CodeSoul/releases)
+> Kde program CodeSoul stáhnu? Zde: 
+# [Latest release](https://github.com/Plawro/CodeSoul/releases)
 
