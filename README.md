@@ -30,10 +30,16 @@ Program **CodeSoul** je aplikace, která vám ukáže jak kódovat v programovac
 - 27.4.2023 » Dokončeny lekce (17/17), přidáno logo, vybudován projekt
 
 PROJEKT HOTOV - P1V6 (Prerelease - dooprava chyb)
+
+- 8.5.2023 » Oprava chyb
+
+R1V2-Student (Release, verze student)
 ```
 
 <br><br>
 # Dostupnost
+> Aplikace je dostupná pro veřejnost ke stažení **od 8.5.2023**<br>
+# Instalace
 > Co potřebuji ke spuštění programu? JDK Development Kit (https://www.oracle.com/cz/java/technologies/downloads/)<br>
-> Aplikace bude dostupná pro veřejnost ke stažení, **až po prezentaci programu v hodině programování**
+> Kde program CodeSoul stáhnu? Zde: [Latest release](https://github.com/Plawro/CodeSoul/releases)
 
