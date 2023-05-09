@@ -14,11 +14,14 @@ V kategorii "Ostatní" naleznete odkaz na procvičovací projekty.<br><br>
 # Instalace
 > Co potřebuji ke spuštění programu? JDK Development Kit (https://www.oracle.com/cz/java/technologies/downloads/)
 <br>
+
 > Kde program CodeSoul stáhnu? Zde: 
 # [Latest release](https://github.com/Plawro/CodeSoul/releases)
 <br><br>
+
 ## Pozor! Kód nemusí být 100% správně.
 <br><br>
+
 # Postup
 ```
 - 31.3.2023 » Nápad na projekt, vytvoření projektu
