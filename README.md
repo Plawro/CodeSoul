@@ -2,7 +2,7 @@
 Program **CodeSoul** je aplikace, která vám ukáže jak kódovat v programovacím jazyce Java. S vysvětlivkami. V češtině.<br>
 
 # Jak to funguje?
-Jednoduše. Stáhněte JDK (viz. **Instalace**), pak i CodeSoul, spustěte jej a otevře se okno.
+Jednoduše. Stáhněte JDK (viz. [Instalace](https://github.com/Plawro/CodeSoul#instalace)), pak i CodeSoul, spustěte jej a otevře se okno.
 V tom okně se zobrazí menu a uvítací informace. Když v menu kliknete na jednu z kategorií,
 zobrazí se lekce pro jednotlivé java elementy. Klikněte na jeden a zobrazí se instrukce,
 jak s tím elementem pracovat ve formě textového popisu, ale také příklad kódu.<br><br>
