@@ -1,23 +1,22 @@
 # CodeSoul
 Program **CodeSoul** je aplikace, která vám ukáže jak kódovat v programovacím jazyce Java. S vysvětlivkami. V češtině.<br>
-
+<br><br>
 # Jak to funguje?
 Jednoduše. Stáhněte JDK (viz. [Instalace](https://github.com/Plawro/CodeSoul#instalace)), pak i CodeSoul, spustěte jej a otevře se okno.
 V tom okně se zobrazí menu a uvítací informace. Když v menu kliknete na jednu z kategorií,
 zobrazí se lekce pro jednotlivé java elementy. Klikněte na jeden a zobrazí se instrukce,
-jak s tím elementem pracovat ve formě textového popisu, ale také příklad kódu.<br><br>
-
+jak s tím elementem pracovat ve formě textového popisu, ale také příklad kódu.
+V kategorii "Ostatní" naleznete odkaz na procvičovací projekty.<br><br>
 <br><br>
 # Dostupnost
-> Aplikace je dostupná pro veřejnost ke stažení **od 8.5.2023**<br>
+> Aplikace je dostupná pro veřejnost ke stažení **od 8.5.2023**<br><br>
 # Instalace
 > Co potřebuji ke spuštění programu? JDK Development Kit (https://www.oracle.com/cz/java/technologies/downloads/)<br>
 > Kde program CodeSoul stáhnu? Zde: 
 # [Latest release](https://github.com/Plawro/CodeSoul/releases)
-
+<br><br>
 ## Pozor! Kód nemusí být 100% správně.
-
-
+<br><br>
 # Postup
 ```
 - 31.3.2023 » Nápad na projekt, vytvoření projektu
