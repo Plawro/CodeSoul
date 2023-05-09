@@ -11,6 +11,7 @@ V kategorii "Ostatní" naleznete odkaz na procvičovací projekty.<br><br>
 # Dostupnost
 > Aplikace je dostupná pro veřejnost ke stažení **od 8.5.2023**
 <br><br>
+
 # Instalace
 > Co potřebuji ke spuštění programu? JDK Development Kit (https://www.oracle.com/cz/java/technologies/downloads/)
 <br>
