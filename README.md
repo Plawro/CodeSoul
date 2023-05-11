@@ -14,6 +14,8 @@ V kategorii "Ostatní" naleznete odkaz na procvičovací projekty.<br><br>
 
 # Instalace
 > Co potřebuji ke spuštění programu? JDK Development Kit (https://www.oracle.com/cz/java/technologies/downloads/)
+> ### !!! zjištěn problém, že na starších / "vyvolených" pc se buildnutý program nespustí !!!
+> Pokud vám program nepůjde zpustit, stáhněte Source code a spustěte program v IntelliJ
 <br>
 
 > Kde program CodeSoul stáhnu? Zde: 
