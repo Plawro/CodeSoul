@@ -13,7 +13,8 @@ V kategorii "Ostatní" naleznete odkaz na procvičovací projekty.<br><br>
 <br><br>
 
 # Instalace
-> Co potřebuji ke spuštění programu? JDK Development Kit (https://www.oracle.com/cz/java/technologies/downloads/)
+> Co potřebuji ke spuštění programu? JDK Development Kit (https://www.oracle.com/cz/java/technologies/downloads/),
+> Java 14 (a výš)
 > ### !!! zjištěn problém, že na starších / "vyvolených" pc se buildnutý program nespustí !!!
 > Pokud vám program nepůjde zpustit, stáhněte Source code a spustěte program v IntelliJ
 <br>
