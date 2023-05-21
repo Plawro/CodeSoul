@@ -27,7 +27,7 @@ public class MainFrame extends JFrame {
     private int currentNumberOfCategories;
     int currentLineNumber;
     int numberOfDollars;
-    String[] starterTexts = {"CodeSoul","Verze: Release 1.2.0 Student (R1V2-Student)\nDeveloper: Plawro\nPoužité externí knihovny: RSyntaxTextArea\nPoužité zdroje: Vlastní projekty, Imagine - logo","Rychlý průvodce:\nV hlavní menu najdete nabídku Java komponentů. \nKliknutím na konkrétní položku se zobrazí podrobný tutoriál, jak \ndaný komponent používat. Vybrat si jiný komponent můžete vždy, kdy potřebujete. \nPokud potřeba, kód se dá zkopírovat, nebo upravit podle potřeby."};
+    String[] starterTexts = {"CodeSoul","Verze: Release 1.3.0 (R1V3)\nDeveloper: Plawro\nPoužité externí knihovny: RSyntaxTextArea\nPoužité zdroje: Vlastní projekty, Imagine - logo","Rychlý průvodce:\nV hlavní menu najdete nabídku Java komponentů. \nKliknutím na konkrétní položku se zobrazí podrobný tutoriál, jak \ndaný komponent používat. Vybrat si jiný komponent můžete vždy, kdy potřebujete. \nPokud potřeba, kód se dá zkopírovat, nebo upravit podle potřeby."};
 
     JTextArea textArea1;
     JPanel panel1;
