@@ -1,7 +1,7 @@
 # CodeSoul
 Program **CodeSoul** je aplikace, která vám ukáže jak kódovat v programovacím jazyce Java. S vysvětlivkami. V češtině.
 <br><br><br><br>
-Todo: Opravit chyby jako 1. informace 2x v textu za sebou, JFileChooser chybí řádek private JFileChooser chooser = new JFileChooser(".");
+Todo: Opravit chyby jako 1. informace 2x v textu za sebou (Scanner), JFileChooser chybí řádek private JFileChooser chooser = new JFileChooser(".");
 # Jak to funguje?
 Jednoduše. Stáhněte JDK (viz. [Instalace](https://github.com/Plawro/CodeSoul#instalace)), pak CodeSoul a spustěte jej.<br>
 Otevře se okno a v něm se zobrazí menu a uvítací informace.<br><br>
